@@ -47,3 +47,4 @@
 # optimize 8631
 # optimize 3713
 # fix 7394
+# fix 7685
