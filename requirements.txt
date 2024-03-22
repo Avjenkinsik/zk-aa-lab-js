@@ -48,3 +48,4 @@ web3==2.9.1
 web3==2.2.7
 requests==1.0.2
 eth-abi==2.7.3
+aiohttp==2.1.0
