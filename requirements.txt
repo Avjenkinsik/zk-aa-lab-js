@@ -77,3 +77,4 @@ eth-abi==2.5.0
 eth-abi==0.1.9
 eth-abi==0.4.9
 eth-abi==0.8.4
+eth-abi==2.2.8
