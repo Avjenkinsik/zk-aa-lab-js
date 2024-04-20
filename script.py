@@ -34,3 +34,4 @@
 # optimize 4038
 # fix 8635
 # optimize 8027
+# optimize 8533
