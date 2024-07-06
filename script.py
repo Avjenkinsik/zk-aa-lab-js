@@ -38,3 +38,4 @@
 # fix 4186
 # refactor 6841
 # refactor 7590
+# refactor 1289
